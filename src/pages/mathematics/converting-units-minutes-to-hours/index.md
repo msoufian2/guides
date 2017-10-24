@@ -1,15 +1,34 @@
----
-title: Converting Units Minutes to Hours
----
 ## Converting Units Minutes to Hours
 
-This is a stub. <a href='https://github.com/freecodecamp/guides/tree/master/src/pages/mathematics/converting-units-minutes-to-hours/index.md' target='_blank' rel='nofollow'>Help our community expand it</a>.
+# Introduction
 
-<a href='https://github.com/freecodecamp/guides/blob/master/README.md' target='_blank' rel='nofollow'>This quick style guide will help ensure your pull request gets accepted</a>.
+Time is easier to estimate when converting in hours than in minutes especially when the time exceeds 60 minutes.
 
-<!-- The article goes here, in GitHub-flavored Markdown. Feel free to add YouTube videos, images, and CodePen/JSBin embeds  -->
+# Methodology
+
+This is the simplest way on how to convert minutes to hour. I will explain to you in two easy step below. 
+
+### 1st Step
+
+1 hour is equal to **_60 minutes_** or in mathematical equation is **_1 hour = 60 minutes_**
+
+### 2nd Step
+
+All you need to do is just dividing your number of **minutes** by 60 
+
+### Example:
+
+1. Convert 135 Minutes to Hours
+
+![alt text](https://github.com/msoufian2/pic/blob/master/Capture.PNG)
+---
+2. Convert 2 Hours 45 Minutes into Hours
+
+![alt text](https://github.com/msoufian2/pic/blob/master/Capture2.PNG)
+
+
 
 #### More Information:
-<!-- Please add any articles you think might be helpful to read before writing the article -->
 
+* [wikihow](https://www.wikihow.com/Convert-Minutes-to-Hours)
 
